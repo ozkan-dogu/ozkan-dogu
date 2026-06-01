@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Özkan 👋
 
-<!--
-**ozkan-dogu/ozkan-dogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer who enjoys building things for the web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I like building
+- Web applications that feel simple and useful
+- SaaS products that solve real problems
+- Small experiments with AI and automation
+
+---
+
+## Tech I use
+Angular • TypeScript • React • .NET
+
+---
+
+## Let’s connect
+- LinkedIn: https://www.linkedin.com/in/ozkan-dogu/
+- Website: https://ozkandogu.dev
