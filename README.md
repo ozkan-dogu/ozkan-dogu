@@ -2,8 +2,7 @@
 
 I’m a software engineer who enjoys building things for the web.
 
-
-## What I like building
+What I like building
 - Web applications that feel simple and useful
 - SaaS products that solve real problems
 - Small experiments with AI and automation
